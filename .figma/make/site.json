@@ -1,0 +1,11 @@
+{
+  "title": "portofolio_kellvin",
+  "description": "Showcase your work with a visually stunning portfolio web application designed for creatives, helping them attract clients and opportunities.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

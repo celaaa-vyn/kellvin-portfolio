@@ -1,0 +1,70 @@
+@import 'tailwindcss';
+
+/* --- SF Pro (resolved via Figma font service) --- */
+@font-face {
+  font-family: 'SF Pro:Light';
+  src: url('https://static.figma.com/font/SF-Pro_1') format('woff2');
+  font-weight: 274;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'SF Pro:Regular';
+  src: url('https://static.figma.com/font/SF-Pro_1') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'SF Pro:Medium';
+  src: url('https://static.figma.com/font/SF-Pro_1') format('woff2');
+  font-weight: 510;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'SF Pro:Semibold';
+  src: url('https://static.figma.com/font/SF-Pro_1') format('woff2');
+  font-weight: 590;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'SF Pro:Medium Italic';
+  src: url('https://static.figma.com/font/SF-Pro-Italic_1') format('woff2');
+  font-weight: 508;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* PP Mondwest (used on the word "grown"). Commercial Pangram Pangram face,
+   free for personal use only — not distributable as a licensed webfont, so it
+   is loaded from a local file you drop at public/fonts/. Falls back to a
+   pixel/retro face, then a generic serif, until the file is present. */
+@font-face {
+  font-family: 'PP Mondwest:Regular';
+  src: local('PP Mondwest'), local('PPMondwest-Regular'),
+    url('/fonts/PPMondwest-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* SF Pro Display could not be resolved for this Make file (reason: not_found).
+   Fallback: local SF Pro Display / SF Pro if installed, else the resolved SF Pro webfont. */
+@font-face {
+  font-family: 'SF Pro Display:Regular';
+  src: local('SF Pro Display'), local('SFProDisplay-Regular'), local('SF Pro'),
+    url('https://static.figma.com/font/SF-Pro_1') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'SF Pro Display:Bold';
+  src: local('SF Pro Display Bold'), local('SFProDisplay-Bold'), local('SF Pro'),
+    url('https://static.figma.com/font/SF-Pro_1') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
