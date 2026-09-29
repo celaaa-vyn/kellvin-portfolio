@@ -1265,26 +1265,12 @@ function Canvas() {
 }
 
 export default function App() {
-  const [scale, setScale] = useState(1);
-
-  useEffect(() => {
-    const update = () => setScale(window.innerWidth / CANVAS_WIDTH);
-    update();
-    window.addEventListener("resize", update);
-    return () => window.removeEventListener("resize", update);
-  }, []);
-
   return (
     <div
       className="flex w-full justify-center overflow-x-hidden bg-[#fefff2]"
       style={{ minHeight: "100dvh" }}
     >
-      {/* Use CSS `zoom` rather than `transform: scale()`. Scaling this
-          1280×15632px canvas via transform rasterizes it into a single GPU
-          layer that, at 2× DPR, exceeds the max texture size and gets
-          downsampled — making every image and glyph look soft. `zoom` reflows
-          and re-rasterizes at the target size, so content stays crisp. */}
-      <div style={{ zoom: scale, width: CANVAS_WIDTH }}>
+      <div style={{ width: CANVAS_WIDTH }}>
         <Canvas />
       </div>
     </div>
