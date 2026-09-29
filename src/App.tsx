@@ -1265,12 +1265,25 @@ function Canvas() {
 }
 
 export default function App() {
+  const [scale, setScale] = useState(1);
+
+  useEffect(() => {
+    const update = () => {
+      // Native viewport scaling (width=1280) handles mobile perfectly.
+      // For desktop (which ignores the viewport width meta tag), we use zoom to fill the screen.
+      setScale(window.innerWidth / CANVAS_WIDTH);
+    };
+    update();
+    window.addEventListener("resize", update);
+    return () => window.removeEventListener("resize", update);
+  }, []);
+
   return (
     <div
       className="flex w-full justify-center overflow-x-hidden bg-[#fefff2]"
       style={{ minHeight: "100dvh" }}
     >
-      <div style={{ width: CANVAS_WIDTH }}>
+      <div style={{ zoom: scale, width: CANVAS_WIDTH }}>
         <Canvas />
       </div>
     </div>
