@@ -141,13 +141,13 @@ function Canvas() {
       <div className="absolute bg-gradient-to-b from-[#fefff2] h-[4708px] left-0 to-[#ffeda8] to-[51.323%] top-[11856px] w-[1280px]" data-node-id="166:23" />
       <div className="absolute contents left-[-183px] top-[755px]" data-node-id="1:11" data-name="About Me Section (2)">
         <div className="absolute h-[594.234px] left-[-43px] top-[755px] w-[2013px]" data-node-id="1:12">
-          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector5} />
+          <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector5} />
         </div>
         <div className="absolute h-[594.234px] left-[-48.35px] top-[784.27px] w-[1664.148px]" data-node-id="1:13">
-          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector4} />
+          <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector4} />
         </div>
         <div className="absolute h-[594.234px] left-[-183px] top-[864.77px] w-[1664.148px]" data-node-id="1:14">
-          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector3} />
+          <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector3} />
         </div>
         <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['SF_Pro:Regular'] font-normal justify-center leading-[0] left-[136px] text-[37.355px] text-white top-[912.5px] tracking-[-1.1206px] whitespace-nowrap" data-node-id="1:15" style={{ fontVariationSettings: '"wdth" 100' }}>
           <p className="leading-[60.65999984741211%]">ABOUT ME</p>
@@ -160,32 +160,32 @@ function Canvas() {
         </div>
         <div className="absolute h-0 left-[328px] top-[912px] w-[86px]" data-node-id="1:18">
           <div className="absolute inset-[-11.05px_-1.74%]">
-            <img alt="" className="block max-w-none size-full" src={imgArrow1} />
+            <img loading="lazy" decoding="async" alt="" className="block max-w-none size-full" src={imgArrow1} />
           </div>
         </div>
         <div className="absolute h-0 left-[460px] top-[827px] w-[86px]" data-node-id="1:19">
           <div className="absolute inset-[-11.05px_-1.74%]">
-            <img alt="" className="block max-w-none size-full" src={imgArrow1} />
+            <img loading="lazy" decoding="async" alt="" className="block max-w-none size-full" src={imgArrow1} />
           </div>
         </div>
         <div className="absolute h-0 left-[831px] top-[799px] w-[86px]" data-node-id="1:20">
           <div className="absolute inset-[-11.05px_-1.74%]">
-            <img alt="" className="block max-w-none size-full" src={imgArrow1} />
+            <img loading="lazy" decoding="async" alt="" className="block max-w-none size-full" src={imgArrow1} />
           </div>
         </div>
         <div className="absolute contents left-[32px] top-[1014px]" data-node-id="3:3" data-name="Photo">
           <div className="absolute bg-white h-[365.439px] left-[32px] rounded-[16.997px] top-[1014px] w-[368.271px]" data-node-id="3:4" data-name="Photo Border" />
           <div className="absolute h-[246.458px] left-[32px] top-[1045.16px] w-[368.271px]" data-node-id="3:5" data-name="Photo Background">
             <div className="absolute inset-0 overflow-hidden pointer-events-none">
-              <img alt="" className="absolute h-[199.23%] left-[0.04%] max-w-none top-[-15.27%] w-full" src={imgPhotoBackground} />
+              <img loading="lazy" decoding="async" alt="" className="absolute h-[199.23%] left-[0.04%] max-w-none top-[-15.27%] w-full" src={imgPhotoBackground} />
             </div>
           </div>
           <div className="absolute h-[14.164px] left-[46.16px] top-[1022.5px] w-[53.824px]" data-node-id="10:18" data-name="Photo Ellipses">
-            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgPhotoEllipses} />
+            <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" src={imgPhotoEllipses} />
           </div>
           <div className="absolute left-[185px] size-[62px] top-[1303px]" data-node-id="144:10" data-name="Container">
             <div className="absolute left-[-0.03px] size-[62.323px] top-[-0.05px]" data-node-id="3:9" data-name="Button">
-              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgButton} />
+              <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" src={imgButton} />
             </div>
           </div>
         </div>
@@ -195,7 +195,7 @@ function Canvas() {
           </p>
           <div className="absolute contents left-[434px] top-[1058px]" data-node-id="1:21" data-name="Bubble Chat (Hi! I'm Kellvin)">
             <div className="absolute h-[68.201px] left-[434px] top-[1058px] w-[350px]" data-node-id="1:22">
-              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector6} />
+              <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector6} />
             </div>
             <p className="[word-break:break-word] absolute font-['SF_Pro:Medium'] font-[510] leading-[normal] left-[499px] text-[#323234] text-[39.571px] top-[1065.6px] whitespace-nowrap" data-node-id="1:23" style={{ fontVariationSettings: '"wdth" 100' }}>{`Hi! I’m Kellvin `}</p>
           </div>
@@ -214,14 +214,14 @@ function Canvas() {
         </div>
         <div className="absolute h-[384.896px] left-[360.35px] top-[214px] w-[537px]" data-node-id="1:8" data-name="Folder Icon">
           <div className="absolute inset-[0_-3.44%_-1.82%_-3.44%]">
-            <img alt="" className="block max-w-none size-full" src={imgFolderIcon} />
+            <img loading="lazy" decoding="async" alt="" className="block max-w-none size-full" src={imgFolderIcon} />
           </div>
         </div>
         <div className="absolute contents h-[141.362px] left-[66px] top-[362.48px] w-[324.587px]" data-node-id="4:19" data-name="My Major (Information System Student)">
           <div className="absolute flex h-[141.362px] items-center justify-center left-[66px] top-[362.48px] w-[324.587px]" data-node-id="4:16">
             <div className="flex-none rotate-[6.16deg]">
               <div className="h-[108.184px] relative w-[314.79px]" data-name="Major Description Background">
-                <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgMajorDescriptionBackground} />
+                <img loading="lazy" decoding="async" alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgMajorDescriptionBackground} />
               </div>
             </div>
           </div>
@@ -243,36 +243,36 @@ function Canvas() {
       <div className="absolute contents left-[-10px] top-[1433px]" data-node-id="12:4294" data-name="Mask group">
         <div className="absolute h-[1846px] left-[-10px] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-size-[1290px_1846px] top-[1433px] w-[1290px]" data-node-id="12:4290" style={{ maskImage: `url("${imgBackgroundImage}")` }} data-name="Background Image">
           <div className="absolute inset-0 overflow-hidden pointer-events-none">
-            <img alt="" className="absolute inset-0 max-w-none object-cover size-full" src={imgBackgroundImage1} />
+            <img loading="lazy" decoding="async" alt="" className="absolute inset-0 max-w-none object-cover size-full" src={imgBackgroundImage1} />
           </div>
         </div>
       </div>
       <div className="-translate-x-1/2 absolute bg-white h-[1073.147px] left-1/2 overflow-clip rounded-[35.216px] shadow-[0px_581.056px_162.177px_0px_rgba(0,0,0,0),0px_371.616px_148.276px_0px_rgba(0,0,0,0.02),0px_209.44px_125.108px_0px_rgba(0,0,0,0.07),0px_92.672px_92.672px_0px_rgba(0,0,0,0.12),0px_23.168px_50.97px_0px_rgba(0,0,0,0.14)] top-[1739px] w-[860px]" data-node-id="10:11" data-name="Folder Container">
         <div className="absolute bg-[#e6e6e6] h-[51.897px] left-0 top-0 w-[860px]" data-node-id="10:1313" data-name="Navigation Container">
           <div className="absolute inset-[32.14%_83.03%_35.71%_12.98%]" data-node-id="10:1311" data-name="Navigation Icon Container">
-            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgNavigationIconContainer} />
+            <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" src={imgNavigationIconContainer} />
           </div>
           <div className="absolute inset-[32.14%_41.49%_35.71%_56.57%]" data-node-id="10:34" data-name="Vector">
-            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector} />
+            <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector} />
           </div>
           <div className="absolute inset-[32.14%_36.31%_35.71%_61.75%]" data-node-id="10:40" data-name="Vector">
             <div className="absolute inset-[-4.05%]">
-              <img alt="" className="block max-w-none size-full" src={imgVector1} />
+              <img loading="lazy" decoding="async" alt="" className="block max-w-none size-full" src={imgVector1} />
             </div>
           </div>
           <div className="absolute inset-[32.14%_3.88%_35.71%_94.18%]" data-node-id="10:1310" data-name="Vector">
             <div className="absolute inset-[-4.05%]">
-              <img alt="" className="block max-w-none size-full" src={imgVector2} />
+              <img loading="lazy" decoding="async" alt="" className="block max-w-none size-full" src={imgVector2} />
             </div>
           </div>
           <div className="absolute inset-[32.14%_31.14%_35.71%_66.92%]" data-node-id="10:36" data-name="Vector">
             <div className="absolute inset-[-4.05%]">
-              <img alt="" className="block max-w-none size-full" src={imgVector7} />
+              <img loading="lazy" decoding="async" alt="" className="block max-w-none size-full" src={imgVector7} />
             </div>
           </div>
           <div className="absolute inset-[32.14%_26.42%_35.71%_72.09%]" data-node-id="10:42" data-name="Vector">
             <div className="absolute inset-[-4.06%_-5.27%]">
-              <img alt="" className="block max-w-none size-full" src={imgVector8} />
+              <img loading="lazy" decoding="async" alt="" className="block max-w-none size-full" src={imgVector8} />
             </div>
           </div>
           <div className="absolute content-stretch flex gap-[8.341px] inset-[35.71%_88.79%_39.29%_3.88%] items-center pr-[7.414px]" data-node-id="10:63" data-name="Window Controls/Standard">
@@ -281,13 +281,13 @@ function Canvas() {
             <div className="bg-[#35c759] border-[0.463px] border-[rgba(0,0,0,0.12)] border-solid relative rounded-[92.672px] shrink-0 size-[12.974px]" data-node-id="I10:63;177:9890" data-name="Zoom" />
           </div>
           <div className="absolute inset-[32.14%_19.23%_35.71%_76.83%]" data-node-id="10:1312" data-name="Navigation Icon Container">
-            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgNavigationIconContainer1} />
+            <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" src={imgNavigationIconContainer1} />
           </div>
           <div className="absolute inset-[32.14%_14.19%_35.52%_84.05%]" data-node-id="10:1307" data-name="Vector">
-            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector9} />
+            <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector9} />
           </div>
           <div className="absolute inset-[32.14%_9.05%_35.71%_89.01%]" data-node-id="10:1309" data-name="Vector">
-            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector10} />
+            <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector10} />
           </div>
         </div>
         <div className="absolute bg-[rgba(0,111,255,0.27)] h-[79.103px] left-[146.42px] top-[189px] w-[324.323px]" data-node-id="12:671" data-name="Section Header Background" />
@@ -296,7 +296,7 @@ function Canvas() {
         </div>
         <div className="absolute h-0 left-[77.3px] top-[156.5px] w-[193.333px]" data-node-id="12:675" data-name="Underline">
           <div className="absolute inset-[-2.61px_-1.35%]">
-            <img alt="" className="block max-w-none size-full" src={imgUnderline} />
+            <img loading="lazy" decoding="async" alt="" className="block max-w-none size-full" src={imgUnderline} />
           </div>
         </div>
         <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['SF_Pro_Display:Bold'] justify-center leading-[0] left-[163px] not-italic text-[101.252px] text-black top-[227.5px] tracking-[-3.0376px] whitespace-nowrap" data-node-id="12:670">
@@ -306,7 +306,7 @@ function Canvas() {
           <div className="flex-none rotate-90">
             <div className="h-0 relative w-[96.655px]">
               <div className="absolute inset-[-6.49px_-6.72%_-6.49px_0]">
-                <img alt="" className="block max-w-none size-full" src={imgLine1} />
+                <img loading="lazy" decoding="async" alt="" className="block max-w-none size-full" src={imgLine1} />
               </div>
             </div>
           </div>
@@ -315,13 +315,13 @@ function Canvas() {
           <div className="-rotate-90 -scale-y-100 flex-none">
             <div className="h-0 relative w-[96.655px]">
               <div className="absolute inset-[-6.49px_-6.72%_-6.49px_0]">
-                <img alt="" className="block max-w-none size-full" src={imgLine2} />
+                <img loading="lazy" decoding="async" alt="" className="block max-w-none size-full" src={imgLine2} />
               </div>
             </div>
           </div>
         </div>
         <div className="absolute h-[323.342px] left-[483.75px] top-[298.4px] w-[271.729px]" data-node-id="12:4226" data-name="Folder Container">
-          <img alt="" className="pointer-events-none size-full max-w-none" src={imgFolderProgramming} />
+          <img loading="lazy" decoding="async" alt="" className="pointer-events-none size-full max-w-none" src={imgFolderProgramming} />
           <div className="-translate-x-1/2 -translate-y-1/2 absolute flex h-[45.913px] items-center justify-center left-[120.93px] top-[299.34px] w-[220.69px]" data-node-id="12:4229">
             <div className="flex-none rotate-[6.47deg]">
               <div className="[word-break:break-word] flex flex-col font-['SF_Pro:Semibold'] font-[590] h-[21.303px] justify-center leading-[0] relative text-[21.166px] text-black text-center w-[219.689px]" style={{ fontVariationSettings: '"wdth" 100' }}>
@@ -331,7 +331,7 @@ function Canvas() {
           </div>
         </div>
         <div className="absolute h-[326.042px] left-[122px] top-[574px] w-[277.642px]" data-node-id="12:4245" data-name="Folder Container">
-          <img alt="" className="pointer-events-none size-full max-w-none" src={imgFolderProductivity} />
+          <img loading="lazy" decoding="async" alt="" className="pointer-events-none size-full max-w-none" src={imgFolderProductivity} />
           <div className="-translate-x-1/2 -translate-y-1/2 absolute flex h-[53.282px] items-center justify-center left-[118.97px] top-[298.02px] w-[217.18px]" data-node-id="12:4248">
             <div className="flex-none rotate-[8.64deg]">
               <div className="[word-break:break-word] flex flex-col font-['SF_Pro:Semibold'] font-[590] h-[20.992px] justify-center leading-[0] relative text-[20.857px] text-black text-center w-[216.484px]" style={{ fontVariationSettings: '"wdth" 100' }}>
@@ -341,7 +341,7 @@ function Canvas() {
           </div>
         </div>
         <div className="absolute h-[374.003px] left-[100px] top-[237px] w-[329.935px]" data-node-id="12:4225" data-name="Folder Container">
-          <img alt="" className="pointer-events-none size-full max-w-none" src={imgFolderDesign} />
+          <img loading="lazy" decoding="async" alt="" className="pointer-events-none size-full max-w-none" src={imgFolderDesign} />
           <div className="-translate-x-1/2 -translate-y-1/2 absolute flex h-[84.38px] items-center justify-center left-[203.9px] top-[329.69px] w-[239.159px]" data-node-id="12:4203">
             <div className="flex-none rotate-[-14.96deg]">
               <div className="[word-break:break-word] flex flex-col font-['SF_Pro:Semibold'] font-[590] h-[22.805px] justify-center leading-[0] relative text-[22.641px] text-black text-center w-[241.459px]" style={{ fontVariationSettings: '"wdth" 100' }}>
@@ -384,35 +384,35 @@ function Canvas() {
         <div className="absolute flex items-center justify-center left-[55px] size-[57.338px] top-[72px]" data-node-id="45:330">
           <div className="flex-none rotate-[-11.89deg]">
             <div className="relative size-[48.402px]" data-name="Vector">
-              <img alt="" className="absolute block inset-0 max-w-none size-full" height="48.402" src={imgVector11} width="48.402" />
+              <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" height="48.402" src={imgVector11} width="48.402" />
             </div>
           </div>
         </div>
         <div className="absolute flex items-center justify-center left-[301px] size-[66.932px] top-[68px]" data-node-id="45:328">
           <div className="flex-none rotate-[14.09deg]">
             <div className="relative size-[55.161px]" data-name="Vector">
-              <img alt="" className="absolute block inset-0 max-w-none size-full" height="55.161" src={imgVector12} width="55.161" />
+              <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" height="55.161" src={imgVector12} width="55.161" />
             </div>
           </div>
         </div>
         <div className="absolute flex items-center justify-center left-[49px] size-[70.155px] top-[313px]" data-node-id="45:329">
           <div className="flex-none rotate-[-11.89deg]">
             <div className="relative size-[59.222px]" data-name="Vector">
-              <img alt="" className="absolute block inset-0 max-w-none size-full" height="59.222" src={imgVector13} width="59.222" />
+              <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" height="59.222" src={imgVector13} width="59.222" />
             </div>
           </div>
         </div>
         <div className="absolute flex items-center justify-center left-[277px] size-[73.732px] top-[300px]" data-node-id="45:327">
           <div className="flex-none rotate-[11.97deg]">
             <div className="relative size-[62.185px]" data-name="Vector">
-              <img alt="" className="absolute block inset-0 max-w-none size-full" height="62.185" src={imgVector14} width="62.185" />
+              <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" height="62.185" src={imgVector14} width="62.185" />
             </div>
           </div>
         </div>
       </div>
       <div className="absolute drop-shadow-[0px_100px_14px_rgba(0,0,0,0),0px_64px_13px_rgba(0,0,0,0.01),0px_36px_11px_rgba(0,0,0,0.03),0px_16px_8px_rgba(0,0,0,0.05),0px_4px_4.5px_rgba(0,0,0,0.06)] h-[188px] left-[1110px] top-[2212px] w-[141.329px]" data-node-id="14:4330" data-name="Image Container">
         <div className="absolute h-[188.219px] left-0 top-0 w-[141.164px]" data-node-id="14:4328" data-name="Image Thumbnail">
-          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImageThumbnail} />
+          <img loading="lazy" decoding="async" alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImageThumbnail} />
         </div>
         <p className="-translate-x-1/2 [word-break:break-word] absolute bottom-[-13px] font-['SF_Pro:Medium'] font-[510] h-[23px] leading-[normal] left-[calc(50%+0.34px)] overflow-hidden text-[19.688px] text-center text-ellipsis text-shadow-[0px_3.281px_41.016px_black] text-white translate-y-full w-[160px] whitespace-nowrap" data-node-id="14:4331" style={{ fontVariationSettings: '"wdth" 100' }}>
           me.jpg
@@ -420,7 +420,7 @@ function Canvas() {
       </div>
       <div className="absolute drop-shadow-[0px_100px_14px_rgba(0,0,0,0),0px_64px_13px_rgba(0,0,0,0.01),0px_36px_11px_rgba(0,0,0,0.03),0px_16px_8px_rgba(0,0,0,0.05),0px_4px_4.5px_rgba(0,0,0,0.06)] h-[188px] left-[20px] top-[2478px] w-[141.329px]" data-node-id="14:4333" data-name="Image Container">
         <div className="absolute h-[188.219px] left-0 top-0 w-[141.164px]" data-node-id="14:4334" data-name="Image Thumbnail">
-          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImageThumbnail1} />
+          <img loading="lazy" decoding="async" alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImageThumbnail1} />
         </div>
         <p className="-translate-x-1/2 [word-break:break-word] absolute bottom-[-13px] font-['SF_Pro:Medium'] font-[510] h-[23px] leading-[normal] left-[calc(50%+0.34px)] overflow-hidden text-[19.688px] text-center text-ellipsis text-shadow-[0px_3.281px_41.016px_black] text-white translate-y-full w-[160px] whitespace-nowrap" data-node-id="14:4335" style={{ fontVariationSettings: '"wdth" 100' }}>
           cat.jpg
@@ -428,14 +428,14 @@ function Canvas() {
       </div>
       <div className="absolute drop-shadow-[0px_55.781px_8.203px_rgba(0,0,0,0),0px_36.094px_7.383px_rgba(0,0,0,0.01),0px_19.688px_5.742px_rgba(0,0,0,0.03),0px_8.203px_4.102px_rgba(0,0,0,0.05),0px_1.641px_2.461px_rgba(0,0,0,0.06)] left-[55px] size-[105px] top-[1656px]" data-node-id="13:4308" data-name="App Icon/iPhone">
         <div className="absolute aspect-[64/64] left-0 right-0 top-0" data-node-id="13:4309" data-name="Icon">
-          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgIcon} />
+          <img loading="lazy" decoding="async" alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgIcon} />
         </div>
         <p className="-translate-x-1/2 [word-break:break-word] absolute bottom-[-8.2px] font-['SF_Pro:Medium'] font-[510] leading-[normal] left-1/2 overflow-hidden text-[19.688px] text-center text-ellipsis text-shadow-[0px_3.281px_41.016px_black] text-white translate-y-full whitespace-nowrap" data-node-id="13:4310" style={{ fontVariationSettings: '"wdth" 100' }}>
           Figma
         </p>
         <div className="absolute h-[119.766px] left-[-9.84px] rounded-[32.813px] top-[-8.2px] w-[124.688px]" data-node-id="13:4316" data-name="App Icon Image">
           <div className="absolute inset-0 overflow-hidden pointer-events-none rounded-[32.813px]">
-            <img alt="" className="absolute h-[148.88%] left-[-21.5%] max-w-none top-[-23.75%] w-[143%]" src={imgFolderIcon12} />
+            <img loading="lazy" decoding="async" alt="" className="absolute h-[148.88%] left-[-21.5%] max-w-none top-[-23.75%] w-[143%]" src={imgFolderIcon12} />
           </div>
         </div>
         <div className="absolute bg-[#ff383c] content-stretch flex items-center justify-center min-w-[39.375px] px-[11.484px] py-[4.102px] right-[-20.92px] rounded-[100px] top-[-19.69px]" data-node-id="13:4311" data-name="Badge">
@@ -446,7 +446,7 @@ function Canvas() {
       </div>
       <div className="absolute drop-shadow-[0px_55.781px_8.203px_rgba(0,0,0,0),0px_36.094px_7.383px_rgba(0,0,0,0.01),0px_19.688px_5.742px_rgba(0,0,0,0.03),0px_8.203px_4.102px_rgba(0,0,0,0.05),0px_1.641px_2.461px_rgba(0,0,0,0.06)] left-[1133px] size-[105px] top-[1792px]" data-node-id="13:4318" data-name="App Icon/iPhone">
         <div className="absolute aspect-[64/64] left-0 right-0 top-0" data-node-id="13:4319" data-name="Icon">
-          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgIcon} />
+          <img loading="lazy" decoding="async" alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgIcon} />
         </div>
         <div className="-translate-x-1/2 [word-break:break-word] absolute bottom-[-8px] font-['SF_Pro:Medium'] font-[510] h-[46px] leading-[0] left-[calc(50%-0.5px)] overflow-hidden text-[19.688px] text-center text-ellipsis text-shadow-[0px_3.281px_41.016px_black] text-white translate-y-full w-[122px]" data-node-id="13:4320" style={{ fontVariationSettings: '"wdth" 100' }}>
           <p className="leading-[normal] mb-0">Visual Studio</p>
@@ -454,7 +454,7 @@ function Canvas() {
         </div>
         <div className="absolute h-[103px] left-[-1px] rounded-[32.813px] top-0 w-[107px]" data-node-id="13:4322" data-name="App Icon Image">
           <div className="absolute inset-0 overflow-hidden pointer-events-none rounded-[32.813px]">
-            <img alt="" className="absolute h-full left-[1.97%] max-w-none top-0 w-[96.05%]" src={imgAppIconImage} />
+            <img loading="lazy" decoding="async" alt="" className="absolute h-full left-[1.97%] max-w-none top-0 w-[96.05%]" src={imgAppIconImage} />
           </div>
         </div>
         <div className="absolute bg-[#ff383c] content-stretch flex items-center justify-center min-w-[39.375px] px-[11.484px] py-[4.102px] right-[-21.33px] rounded-[100px] top-[-19.69px]" data-node-id="13:4321" data-name="Badge">
@@ -469,7 +469,7 @@ function Canvas() {
       <div className="absolute drop-shadow-[0px_197px_27.5px_rgba(0,0,0,0),0px_126px_25px_rgba(0,0,0,0.02),0px_71px_21.5px_rgba(0,0,0,0.07),0px_32px_16px_rgba(0,0,0,0.12),0px_8px_8.5px_rgba(0,0,0,0.14)] h-[357px] left-[49px] top-[3803px] w-[869px]" data-node-id="49:425" data-name="Image frame">
         <div className="absolute h-[357px] left-0 top-0 w-[869px]" data-node-id="49:423" data-name="Image">
           <div className="absolute inset-0 overflow-hidden pointer-events-none">
-            <img alt="" className="absolute h-[100.23%] left-[-0.58%] max-w-none top-[-0.12%] w-[100.58%]" src={imgImage} />
+            <img loading="lazy" decoding="async" alt="" className="absolute h-[100.23%] left-[-0.58%] max-w-none top-[-0.12%] w-[100.58%]" src={imgImage} />
           </div>
         </div>
         <p className="-translate-x-1/2 [word-break:break-word] absolute font-['SF_Pro:Semibold'] font-[590] leading-[normal] left-[434px] text-[19.688px] text-black text-center top-[361px] whitespace-nowrap" data-node-id="49:426" style={{ fontVariationSettings: '"wdth" 100' }}>
@@ -478,7 +478,7 @@ function Canvas() {
       </div>
       <div className="absolute drop-shadow-[0px_73px_10px_rgba(0,0,0,0),0px_46px_9.5px_rgba(0,0,0,0.02),0px_26px_8px_rgba(0,0,0,0.07),0px_12px_6px_rgba(0,0,0,0.12),0px_3px_3px_rgba(0,0,0,0.14)] h-[320px] left-[1008px] top-[3840px] w-[159px]" data-node-id="49:430" data-name="Image frame">
         <div className="absolute h-[320px] left-0 top-0 w-[159px]" data-node-id="49:428" data-name="Image">
-          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage1} />
+          <img loading="lazy" decoding="async" alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage1} />
         </div>
         <p className="-translate-x-1/2 [word-break:break-word] absolute font-['SF_Pro:Semibold'] font-[590] leading-[normal] left-[79px] text-[19.688px] text-black text-center top-[325px] whitespace-nowrap" data-node-id="49:431" style={{ fontVariationSettings: '"wdth" 100' }}>
           aqquas mookup.png
@@ -552,7 +552,7 @@ function Canvas() {
         </p>
         <div className="absolute h-[236px] left-0 top-0 w-[477px]" data-node-id="61:459" data-name="Image">
           <div className="absolute inset-0 overflow-hidden pointer-events-none">
-            <img alt="" className="absolute h-[102.21%] left-0 max-w-none top-0 w-full" src={imgImage2} />
+            <img loading="lazy" decoding="async" alt="" className="absolute h-[102.21%] left-0 max-w-none top-0 w-full" src={imgImage2} />
           </div>
         </div>
       </div>
@@ -562,7 +562,7 @@ function Canvas() {
         </p>
         <div className="absolute h-[242px] left-[-1px] shadow-[0px_55px_15px_0px_rgba(0,0,0,0),0px_35px_14px_0px_rgba(0,0,0,0.02),0px_20px_12px_0px_rgba(0,0,0,0.07),0px_9px_9px_0px_rgba(0,0,0,0.12),0px_2px_5px_0px_rgba(0,0,0,0.14)] top-[-1px] w-[190px]" data-node-id="61:467" data-name="Image">
           <div className="absolute inset-0 overflow-hidden pointer-events-none">
-            <img alt="" className="absolute h-[190.93%] left-0 max-w-none top-[-0.01%] w-full" src={imgImage3} />
+            <img loading="lazy" decoding="async" alt="" className="absolute h-[190.93%] left-0 max-w-none top-[-0.01%] w-full" src={imgImage3} />
           </div>
         </div>
       </div>
@@ -572,27 +572,27 @@ function Canvas() {
         </p>
         <div className="absolute contents left-0 top-0" data-node-id="61:457" data-name="Image gallery frame">
           <div className="absolute h-[173.714px] left-0 top-[0.18px] w-[344.374px]" data-node-id="61:437" data-name="Image">
-            <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage4} />
+            <img loading="lazy" decoding="async" alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage4} />
           </div>
           <div className="absolute h-[174.433px] left-0 top-[174.25px] w-[344.374px]" data-node-id="61:440" data-name="Image">
-            <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage5} />
+            <img loading="lazy" decoding="async" alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage5} />
           </div>
           <div className="absolute h-[174.433px] left-0 top-[348.33px] w-[344.374px]" data-node-id="61:443" data-name="Image">
-            <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage6} />
+            <img loading="lazy" decoding="async" alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage6} />
           </div>
           <div className="absolute h-[174.612px] left-[341.5px] top-[173.89px] w-[341.5px]" data-node-id="61:446" data-name="Image">
             <div className="absolute inset-0 overflow-hidden pointer-events-none">
-              <img alt="" className="absolute h-full left-0 max-w-none top-0 w-[100.84%]" src={imgImage7} />
+              <img loading="lazy" decoding="async" alt="" className="absolute h-full left-0 max-w-none top-0 w-[100.84%]" src={imgImage7} />
             </div>
           </div>
           <div className="absolute h-[174.253px] left-[341.5px] top-0 w-[341.5px]" data-node-id="61:449" data-name="Image">
             <div className="absolute inset-0 overflow-hidden pointer-events-none">
-              <img alt="" className="absolute h-full left-0 max-w-none top-0 w-[100.84%]" src={imgImage8} />
+              <img loading="lazy" decoding="async" alt="" className="absolute h-full left-0 max-w-none top-0 w-[100.84%]" src={imgImage8} />
             </div>
           </div>
           <div className="absolute h-[174.253px] left-[341.5px] top-[348.51px] w-[341.5px]" data-node-id="61:455" data-name="Image">
             <div className="absolute inset-0 overflow-hidden pointer-events-none">
-              <img alt="" className="absolute h-full left-0 max-w-none top-0 w-[100.84%]" src={imgImage9} />
+              <img loading="lazy" decoding="async" alt="" className="absolute h-full left-0 max-w-none top-0 w-[100.84%]" src={imgImage9} />
             </div>
           </div>
         </div>
@@ -603,7 +603,7 @@ function Canvas() {
         </p>
         <div className="absolute h-[220px] left-0 shadow-[0px_50px_14px_0px_rgba(0,0,0,0),0px_32px_13px_0px_rgba(0,0,0,0.02),0px_18px_11px_0px_rgba(0,0,0,0.07),0px_8px_8px_0px_rgba(0,0,0,0.12),0px_2px_4px_0px_rgba(0,0,0,0.14)] top-0 w-[190px]" data-node-id="61:469" data-name="Image">
           <div className="absolute inset-0 overflow-hidden pointer-events-none">
-            <img alt="" className="absolute h-[210.02%] left-0 max-w-none top-[-110.01%] w-full" src={imgImage3} />
+            <img loading="lazy" decoding="async" alt="" className="absolute h-[210.02%] left-0 max-w-none top-[-110.01%] w-full" src={imgImage3} />
           </div>
         </div>
       </div>
@@ -627,13 +627,13 @@ function Canvas() {
           gy’oreal.png
         </p>
         <div className="absolute h-[535.017px] left-0 top-0 w-[522px]" data-node-id="75:11" data-name="Image">
-          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage10} />
+          <img loading="lazy" decoding="async" alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage10} />
         </div>
       </div>
       <div className="absolute h-[246px] left-[654px] top-[5623px] w-[383px]" data-node-id="82:10" data-name="Image frame">
         <div className="absolute h-[246px] left-px shadow-[0px_263px_74px_0px_rgba(0,0,0,0),0px_168px_67px_0px_rgba(0,0,0,0.01),0px_95px_57px_0px_rgba(0,0,0,0.05),0px_42px_42px_0px_rgba(0,0,0,0.09),0px_11px_23px_0px_rgba(0,0,0,0.1)] top-0 w-[382px]" data-node-id="76:20" data-name="Image">
           <div className="absolute inset-0 overflow-hidden pointer-events-none">
-            <img alt="" className="absolute h-[100.66%] left-[-0.22%] max-w-none top-[-0.34%] w-[100.22%]" src={imgImage11} />
+            <img loading="lazy" decoding="async" alt="" className="absolute h-[100.66%] left-[-0.22%] max-w-none top-[-0.34%] w-[100.22%]" src={imgImage11} />
           </div>
         </div>
         <p className="-translate-x-1/2 [word-break:break-word] absolute font-['SF_Pro:Semibold'] font-[590] leading-[normal] left-[192.5px] text-[19.688px] text-black text-center top-[255px] whitespace-nowrap" data-node-id="82:11" style={{ fontVariationSettings: '"wdth" 100' }}>
@@ -643,7 +643,7 @@ function Canvas() {
       <div className="absolute h-[246px] left-[655px] top-[5911px] w-[382px]" data-node-id="82:14" data-name="Image frame">
         <div className="absolute h-[246px] left-0 shadow-[0px_263px_74px_0px_rgba(0,0,0,0),0px_168px_67px_0px_rgba(0,0,0,0.01),0px_95px_57px_0px_rgba(0,0,0,0.05),0px_42px_42px_0px_rgba(0,0,0,0.09),0px_11px_23px_0px_rgba(0,0,0,0.1)] top-0 w-[382px]" data-node-id="78:23" data-name="Image">
           <div className="absolute inset-0 overflow-hidden pointer-events-none">
-            <img alt="" className="absolute h-[102.52%] left-[-0.59%] max-w-none top-[-0.69%] w-[102.14%]" src={imgImage12} />
+            <img loading="lazy" decoding="async" alt="" className="absolute h-[102.52%] left-[-0.59%] max-w-none top-[-0.69%] w-[102.14%]" src={imgImage12} />
           </div>
         </div>
         <p className="-translate-x-1/2 [word-break:break-word] absolute font-['SF_Pro:Semibold'] font-[590] leading-[normal] left-[192px] text-[19.688px] text-black text-center top-[255px] whitespace-nowrap" data-node-id="82:15" style={{ fontVariationSettings: '"wdth" 100' }}>
@@ -653,189 +653,189 @@ function Canvas() {
       <div className="absolute flex items-center justify-center left-[1104.36px] size-[68.248px] top-[3500.36px]" data-node-id="102:27">
         <div className="flex-none rotate-[12.9deg]">
           <div className="relative size-[56.969px]" data-name="Container">
-            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer} />
+            <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer} />
           </div>
         </div>
       </div>
       <div className="absolute flex items-center justify-center left-[135.58px] size-[66.232px] top-[3514.39px]" data-node-id="102:33">
         <div className="flex-none rotate-[-57.61deg]">
           <div className="relative size-[47.99px]" data-name="Container">
-            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer1} />
+            <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer1} />
           </div>
         </div>
       </div>
       <div className="absolute flex items-center justify-center left-[817px] size-[139.326px] top-[3610px]" data-node-id="102:39">
         <div className="flex-none rotate-[-57.61deg]">
           <div className="relative size-[100.953px]" data-name="Container">
-            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer2} />
+            <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer2} />
           </div>
         </div>
       </div>
       <div className="absolute flex items-center justify-center left-[1024.86px] size-[114.28px] top-[4447.36px]" data-node-id="102:45">
         <div className="flex-none rotate-[-36.84deg]">
           <div className="relative size-[81.634px]" data-name="Container">
-            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer3} />
+            <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer3} />
           </div>
         </div>
       </div>
       <div className="absolute flex items-center justify-center left-[-83px] size-[192.958px] top-[5382px]" data-node-id="102:57">
         <div className="flex-none rotate-[-36.84deg]">
           <div className="relative size-[137.837px]" data-name="Container">
-            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer4} />
+            <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer4} />
           </div>
         </div>
       </div>
       <div className="absolute flex items-center justify-center left-[1066px] size-[302.337px] top-[6457px]" data-node-id="102:75">
         <div className="flex-none rotate-[-36.84deg]">
           <div className="relative size-[215.971px]" data-name="Container">
-            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer5} />
+            <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer5} />
           </div>
         </div>
       </div>
       <div className="absolute flex items-center justify-center left-[-155px] size-[275.617px] top-[8294px]" data-node-id="151:105">
         <div className="flex-none rotate-[160.53deg]">
           <div className="relative size-[215.971px]" data-name="Container">
-            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer6} />
+            <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer6} />
           </div>
         </div>
       </div>
       <div className="absolute flex items-center justify-center left-[937px] size-[96.664px] top-[7905px]" data-node-id="151:135">
         <div className="flex-none rotate-[160.53deg]">
           <div className="relative size-[75.745px]" data-name="Container">
-            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer7} />
+            <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer7} />
           </div>
         </div>
       </div>
       <div className="absolute flex items-center justify-center left-[4.64px] size-[88.055px] top-[6495.64px]" data-node-id="102:81">
         <div className="flex-none rotate-[-14.33deg]">
           <div className="relative size-[72.39px]" data-name="Container">
-            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer8} />
+            <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer8} />
           </div>
         </div>
       </div>
       <div className="absolute flex items-center justify-center left-[1149.64px] size-[88.055px] top-[7599.09px]" data-node-id="151:111">
         <div className="flex-none rotate-[165.67deg]">
           <div className="relative size-[72.39px]" data-name="Container">
-            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer9} />
+            <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer9} />
           </div>
         </div>
       </div>
       <div className="absolute flex items-center justify-center left-[999px] size-[92.741px] top-[11442px]" data-node-id="151:177">
         <div className="flex-none rotate-[-160.06deg]">
           <div className="relative size-[72.39px]" data-name="Container">
-            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer10} />
+            <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer10} />
           </div>
         </div>
       </div>
       <div className="absolute flex items-center justify-center left-[-67px] size-[195.904px] top-[11844px]" data-node-id="151:183">
         <div className="flex-none rotate-[165.67deg]">
           <div className="relative size-[161.053px]" data-name="Container">
-            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer11} />
+            <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer11} />
           </div>
         </div>
       </div>
       <div className="absolute flex items-center justify-center left-[567px] size-[118.058px] top-[8312px]" data-node-id="151:123">
         <div className="flex-none rotate-[-167.7deg]">
           <div className="relative size-[99.199px]" data-name="Container">
-            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer12} />
+            <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer12} />
           </div>
         </div>
       </div>
       <div className="absolute flex items-center justify-center left-[1024px] size-[353.897px] top-[9167px]" data-node-id="151:141">
         <div className="flex-none rotate-[-167.7deg]">
           <div className="relative size-[297.362px]" data-name="Container">
-            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer13} />
+            <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer13} />
           </div>
         </div>
       </div>
       <div className="absolute flex items-center justify-center left-[287.2px] size-[91.937px] top-[10270.2px]" data-node-id="151:165">
         <div className="flex-none rotate-[150.62deg]">
           <div className="relative size-[67.503px]" data-name="Container">
-            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer14} />
+            <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer14} />
           </div>
         </div>
       </div>
       <div className="absolute flex items-center justify-center left-[542px] size-[129.788px] top-[6654px]" data-node-id="102:87">
         <div className="flex-none rotate-[21.53deg]">
           <div className="relative size-[100.055px]" data-name="Container">
-            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer15} />
+            <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer15} />
           </div>
         </div>
       </div>
       <div className="absolute flex items-center justify-center left-[353px] size-[129.788px] top-[7397px]" data-node-id="151:117">
         <div className="flex-none rotate-[-158.47deg]">
           <div className="relative size-[100.055px]" data-name="Container">
-            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer16} />
+            <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer16} />
           </div>
         </div>
       </div>
       <div className="absolute flex items-center justify-center left-[1055px] size-[129.788px] top-[8412px]" data-node-id="151:129">
         <div className="flex-none rotate-[-158.47deg]">
           <div className="relative size-[100.055px]" data-name="Container">
-            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer16} />
+            <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer16} />
           </div>
         </div>
       </div>
       <div className="absolute flex items-center justify-center left-[-37px] size-[129.788px] top-[9381px]" data-node-id="151:147">
         <div className="flex-none rotate-[-158.47deg]">
           <div className="relative size-[100.055px]" data-name="Container">
-            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer16} />
+            <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer16} />
           </div>
         </div>
       </div>
       <div className="absolute flex items-center justify-center left-[1101px] size-[129.788px] top-[10015px]" data-node-id="151:159">
         <div className="flex-none rotate-[-158.47deg]">
           <div className="relative size-[100.055px]" data-name="Container">
-            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer16} />
+            <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer16} />
           </div>
         </div>
       </div>
       <div className="absolute flex items-center justify-center left-[593px] size-[219.656px] top-[9672px]" data-node-id="151:153">
         <div className="flex-none rotate-[-158.47deg]">
           <div className="relative size-[169.334px]" data-name="Container">
-            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer17} />
+            <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer17} />
           </div>
         </div>
       </div>
       <div className="absolute flex items-center justify-center left-[1030px] size-[212.471px] top-[10489px]" data-node-id="151:171">
         <div className="flex-none rotate-[162.47deg]">
           <div className="relative size-[169.334px]" data-name="Container">
-            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer18} />
+            <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer18} />
           </div>
         </div>
       </div>
       <div className="absolute flex items-center justify-center left-[668px] size-[212.471px] top-[11085px]" data-node-id="151:189">
         <div className="flex-none rotate-[162.47deg]">
           <div className="relative size-[169.334px]" data-name="Container">
-            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer18} />
+            <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer18} />
           </div>
         </div>
       </div>
       <div className="absolute flex items-center justify-center left-[1093px] size-[108.679px] top-[11877px]" data-node-id="151:195">
         <div className="flex-none rotate-[162.47deg]">
           <div className="relative size-[86.615px]" data-name="Container">
-            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer19} />
+            <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer19} />
           </div>
         </div>
       </div>
       <div className="absolute flex items-center justify-center left-[1136px] size-[103.255px] top-[5261px]" data-node-id="102:63">
         <div className="flex-none rotate-[-107.66deg]">
           <div className="relative size-[82.195px]" data-name="Container">
-            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer20} />
+            <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer20} />
           </div>
         </div>
       </div>
       <div className="absolute flex items-center justify-center left-[1054.15px] size-[91.441px] top-[5559.8px]" data-node-id="102:69">
         <div className="-rotate-65 flex-none">
           <div className="relative size-[68.809px]" data-name="Container">
-            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer21} />
+            <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer21} />
           </div>
         </div>
       </div>
       <div className="absolute flex items-center justify-center left-[542px] size-[68.617px] top-[4529px]" data-node-id="102:51">
         <div className="flex-none rotate-[-36.84deg]">
           <div className="relative size-[49.016px]" data-name="Container">
-            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer22} />
+            <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" src={imgContainer22} />
           </div>
         </div>
       </div>
@@ -859,7 +859,7 @@ function Canvas() {
       </p>
       <div className="absolute drop-shadow-[0px_384px_54px_rgba(0,0,0,0),0px_246px_49px_rgba(0,0,0,0.01),0px_138px_41.5px_rgba(0,0,0,0.05),0px_61px_30.5px_rgba(0,0,0,0.09),0px_15px_17px_rgba(0,0,0,0.1)] h-[359px] left-[49px] top-[6798px] w-[558.125px]" data-node-id="94:69" data-name="Image Container">
         <div className="absolute h-[359px] left-0 top-0 w-[558.007px]" data-node-id="94:63" data-name="Instagram Post">
-          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgInstagramPost} />
+          <img loading="lazy" decoding="async" alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgInstagramPost} />
         </div>
         <p className="-translate-x-1/2 [word-break:break-word] absolute font-['SF_Pro:Semibold'] font-[590] leading-[normal] left-[calc(50%+0.41px)] text-[19.69px] text-black text-center top-[calc(50%+186.2px)] whitespace-nowrap" data-node-id="94:70" style={{ fontVariationSettings: '"wdth" 100' }}>
           himsisfo_binus intagram.png
@@ -867,7 +867,7 @@ function Canvas() {
       </div>
       <div className="absolute drop-shadow-[0px_398px_56px_rgba(0,0,0,0),0px_255px_51px_rgba(0,0,0,0.01),0px_143px_43px_rgba(0,0,0,0.05),0px_64px_32px_rgba(0,0,0,0.09),0px_16px_17.5px_rgba(0,0,0,0.1)] h-[359px] left-[648px] top-[6798px] w-[579.187px]" data-node-id="94:72" data-name="Image Container">
         <div className="absolute h-[359.308px] left-[-0.96px] top-0 w-[579.647px]" data-node-id="94:68" data-name="article himsis 1">
-          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgArticleHimsis1} />
+          <img loading="lazy" decoding="async" alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgArticleHimsis1} />
         </div>
         <p className="-translate-x-1/2 [word-break:break-word] absolute font-['SF_Pro:Semibold'] font-[590] leading-[normal] left-[calc(50%+1.26px)] text-[18.847px] text-black text-center top-[calc(50%+186.2px)] whitespace-nowrap" data-node-id="94:73" style={{ fontVariationSettings: '"wdth" 100' }}>
           article design draft.png
@@ -877,27 +877,27 @@ function Canvas() {
         <div className="absolute contents left-[31.15px] top-[39.28px]" data-node-id="97:88" data-name="Logo Container">
           <div className="absolute bg-[#2e2e2e] left-[31.15px] overflow-clip size-[165.233px] top-[39.28px]" data-node-id="97:79" data-name="logo balon">
             <div className="absolute h-[163.065px] left-0 top-0 w-[165.233px]" data-node-id="97:78" data-name="logo balon 2 1">
-              <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgLogoBalon21} />
+              <img loading="lazy" decoding="async" alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgLogoBalon21} />
             </div>
           </div>
           <div className="absolute bg-white left-[196.38px] overflow-clip size-[165.233px] top-[39.28px]" data-node-id="97:84" data-name="logo wp">
             <div className="absolute left-0 size-[165.233px] top-0" data-node-id="97:83" data-name="logo wp 1">
-              <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgLogoWp1} />
+              <img loading="lazy" decoding="async" alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgLogoWp1} />
             </div>
           </div>
           <div className="absolute bg-white left-[113.77px] overflow-clip size-[165.233px] top-[204.51px]" data-node-id="97:85" data-name="logo bridge">
             <div className="absolute left-[-0.05px] size-[165.233px] top-0" data-node-id="97:80" data-name="logo bridge 1">
-              <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgLogoBridge1} />
+              <img loading="lazy" decoding="async" alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgLogoBridge1} />
             </div>
           </div>
           <div className="absolute bg-white left-[361.62px] overflow-clip size-[165.233px] top-[39.28px]" data-node-id="97:86" data-name="logo gerak">
             <div className="absolute left-0 size-[165.233px] top-0" data-node-id="97:81" data-name="Logo gerak 1">
-              <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgLogoGerak1} />
+              <img loading="lazy" decoding="async" alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgLogoGerak1} />
             </div>
           </div>
           <div className="absolute bg-white left-[279px] overflow-clip size-[165.233px] top-[204.51px]" data-node-id="97:87" data-name="logo ldkcp">
             <div className="absolute left-0 size-[165.233px] top-0" data-node-id="97:82" data-name="logo ldkcp 1">
-              <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgLogoLdkcp1} />
+              <img loading="lazy" decoding="async" alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgLogoLdkcp1} />
             </div>
           </div>
         </div>
@@ -908,39 +908,39 @@ function Canvas() {
           what design i’ve made.png
         </p>
         <div className="absolute aspect-[2940/2080] left-0 right-[-0.81px] top-0" data-node-id="105:102" data-name="buklet fpyb 1">
-          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgBukletFpyb1} />
+          <img loading="lazy" decoding="async" alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgBukletFpyb1} />
         </div>
         <div className="absolute h-[104px] left-0 top-[304px] w-[73px]" data-node-id="98:100" data-name="Sticker Pack Gerak 1">
-          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgStickerPackGerak1} />
+          <img loading="lazy" decoding="async" alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgStickerPackGerak1} />
         </div>
         <div className="absolute h-[104px] left-[73px] top-[304px] w-[59px]" data-node-id="98:101" data-name="bingo wp 1">
-          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgBingoWp1} />
+          <img loading="lazy" decoding="async" alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgBingoWp1} />
         </div>
         <div className="absolute h-[104px] left-[190px] top-[304px] w-[73px]" data-node-id="98:102" data-name="POSTER BRIDGE 1">
-          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgPosterBridge1} />
+          <img loading="lazy" decoding="async" alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgPosterBridge1} />
         </div>
         <div className="absolute h-[104px] left-[131px] top-[304px] w-[59px]" data-node-id="99:103" data-name="igs 7 days to go balon 1">
-          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgIgs7DaysToGoBalon1} />
+          <img loading="lazy" decoding="async" alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgIgs7DaysToGoBalon1} />
         </div>
         <div className="absolute h-[104px] left-[263px] top-[304px] w-[83px]" data-node-id="105:105" data-name="Image">
           <div className="absolute inset-0 overflow-hidden pointer-events-none">
-            <img alt="" className="absolute h-[100.44%] left-0 max-w-none top-[-0.44%] w-full" src={imgImage13} />
+            <img loading="lazy" decoding="async" alt="" className="absolute h-[100.44%] left-0 max-w-none top-[-0.44%] w-full" src={imgImage13} />
           </div>
         </div>
         <div className="absolute h-[104px] left-[346px] top-[304px] w-[84px]" data-node-id="109:108" data-name="poster  workshop 1">
-          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgPosterWorkshop1} />
+          <img loading="lazy" decoding="async" alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgPosterWorkshop1} />
         </div>
       </div>
       <div className="absolute bg-white drop-shadow-[0px_450px_63px_rgba(0,0,0,0),0px_288px_57.5px_rgba(0,0,0,0.01),0px_162px_48.5px_rgba(0,0,0,0.05),0px_72px_36px_rgba(0,0,0,0.09),0px_18px_20px_rgba(0,0,0,0.1)] h-[446.339px] left-[47px] top-[7649px] w-[654px]" data-node-id="111:123" data-name="Image Container">
         <div className="absolute h-[446.339px] left-0 overflow-clip top-0 w-[654px]" data-node-id="111:124" data-name="Image Container">
           <div className="absolute h-[472.629px] left-0 top-[-26.29px] w-[218px]" data-node-id="110:113" data-name="Image">
-            <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage14} />
+            <img loading="lazy" decoding="async" alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage14} />
           </div>
           <div className="absolute h-[472.629px] left-[218px] top-[-26.29px] w-[218px]" data-node-id="111:116" data-name="Image">
-            <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage15} />
+            <img loading="lazy" decoding="async" alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage15} />
           </div>
           <div className="absolute h-[472.629px] left-[436px] top-[-26.29px] w-[218px]" data-node-id="111:119" data-name="Image">
-            <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage16} />
+            <img loading="lazy" decoding="async" alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage16} />
           </div>
         </div>
         <p className="-translate-x-1/2 [word-break:break-word] absolute font-['SF_Pro:Semibold'] font-[590] leading-[normal] left-[calc(50%+0.5px)] text-[19.69px] text-black text-center top-[calc(50%+238.83px)] whitespace-nowrap" data-node-id="111:125" style={{ fontVariationSettings: '"wdth" 100' }}>
@@ -949,7 +949,7 @@ function Canvas() {
       </div>
       <div className="absolute drop-shadow-[0px_338px_47.5px_rgba(0,0,0,0),0px_216px_43px_rgba(0,0,0,0.01),0px_122px_36.5px_rgba(0,0,0,0.05),0px_54px_27px_rgba(0,0,0,0.09),0px_14px_15px_rgba(0,0,0,0.1)] h-[491px] left-[48px] top-[9569px] w-[367px]" data-node-id="116:144" data-name="Image Container">
         <div className="absolute h-[491px] left-[-1px] top-0 w-[368px]" data-node-id="116:131" data-name="Image">
-          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage17} />
+          <img loading="lazy" decoding="async" alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage17} />
         </div>
         <p className="-translate-x-1/2 [word-break:break-word] absolute font-['SF_Pro:Semibold'] font-[590] leading-[normal] left-[calc(50%-0.5px)] text-[19.69px] text-black text-center top-[calc(50%+253.5px)] whitespace-nowrap" data-node-id="116:143" style={{ fontVariationSettings: '"wdth" 100' }}>
           activity dump.png
@@ -960,7 +960,7 @@ function Canvas() {
           activity dump(2).png
         </p>
         <div className="absolute h-[425.979px] left-[0.03px] top-[0.07px] w-[567.972px]" data-node-id="116:140" data-name="WhatsApp Image 2026-09-26 at 23.06.58 (1) 1">
-          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgWhatsAppImage20260926At23065811} />
+          <img loading="lazy" decoding="async" alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgWhatsAppImage20260926At23065811} />
         </div>
       </div>
       <div className="absolute drop-shadow-[0px_293px_41px_rgba(0,0,0,0),0px_188px_37.5px_rgba(0,0,0,0.01),0px_106px_31.5px_rgba(0,0,0,0.05),0px_47px_23.5px_rgba(0,0,0,0.09),0px_12px_13px_rgba(0,0,0,0.1)] h-[426px] left-[48px] top-[10471px] w-[241px]" data-node-id="118:18" data-name="Image Container">
@@ -968,7 +968,7 @@ function Canvas() {
           activity dump(1).png
         </p>
         <div className="absolute h-[425.919px] left-0 top-0 w-[240.644px]" data-node-id="116:137" data-name="WhatsApp Image 2026-09-26 at 23.06.58 1">
-          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgWhatsAppImage20260926At2306581} />
+          <img loading="lazy" decoding="async" alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgWhatsAppImage20260926At2306581} />
         </div>
       </div>
       <div className="absolute drop-shadow-[0px_438px_61.5px_rgba(0,0,0,0),0px_280px_56px_rgba(0,0,0,0.01),0px_158px_47.5px_rgba(0,0,0,0.05),0px_70px_35px_rgba(0,0,0,0.09),0px_18px_19.5px_rgba(0,0,0,0.1)] h-[357px] left-[47px] top-[11309px] w-[636px]" data-node-id="121:22" data-name="Image Container">
@@ -976,7 +976,7 @@ function Canvas() {
           activity dump(3).png
         </p>
         <div className="absolute h-[358px] left-0 top-[-1px] w-[637px]" data-node-id="116:134" data-name="Image">
-          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage18} />
+          <img loading="lazy" decoding="async" alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage18} />
         </div>
       </div>
       <div className="absolute contents left-[295px] top-[11974px]" data-node-id="146:26" data-name="Section Header">
@@ -991,7 +991,7 @@ function Canvas() {
           <div className="flex-none rotate-90">
             <div className="h-0 relative w-[96px]">
               <div className="absolute inset-[-6.49px_-6.76%_-6.49px_0]">
-                <img alt="" className="block max-w-none size-full" src={imgLine3} />
+                <img loading="lazy" decoding="async" alt="" className="block max-w-none size-full" src={imgLine3} />
               </div>
             </div>
           </div>
@@ -1000,7 +1000,7 @@ function Canvas() {
           <div className="-rotate-90 -scale-y-100 flex-none">
             <div className="h-0 relative w-[97px]">
               <div className="absolute inset-[-6.49px_-6.69%_-6.49px_0]">
-                <img alt="" className="block max-w-none size-full" src={imgLine4} />
+                <img loading="lazy" decoding="async" alt="" className="block max-w-none size-full" src={imgLine4} />
               </div>
             </div>
           </div>
@@ -1009,29 +1009,29 @@ function Canvas() {
       <div className="-translate-x-1/2 absolute bg-white h-[2090px] left-[calc(50%-232.5px)] overflow-clip rounded-[29.435px] shadow-[0px_485.681px_135.557px_0px_rgba(0,0,0,0),0px_310.619px_123.938px_0px_rgba(0,0,0,0.02),0px_175.062px_104.573px_0px_rgba(0,0,0,0.07),0px_77.461px_77.461px_0px_rgba(0,0,0,0.12),0px_19.365px_42.604px_0px_rgba(0,0,0,0.14)] top-[12141px] w-[719px]" data-node-id="146:27" data-name="Folder Container">
         <div className="absolute bg-[#e6e6e6] h-[53px] left-0 top-0 w-[878px]" data-node-id="146:28" data-name="Navigation Container">
           <div className="absolute inset-[32.14%_83.03%_35.71%_12.98%]" data-node-id="146:29" data-name="Navigation Icon Container">
-            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgNavigationIconContainer2} />
+            <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" src={imgNavigationIconContainer2} />
           </div>
           <div className="absolute inset-[32.14%_58.57%_35.72%_39.49%]" data-node-id="146:32" data-name="Vector">
-            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector15} />
+            <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector15} />
           </div>
           <div className="absolute inset-[32.14%_53.4%_35.72%_44.66%]" data-node-id="146:33" data-name="Vector">
             <div className="absolute inset-[-3.32%]">
-              <img alt="" className="block max-w-none size-full" src={imgVector16} />
+              <img loading="lazy" decoding="async" alt="" className="block max-w-none size-full" src={imgVector16} />
             </div>
           </div>
           <div className="absolute inset-[32.14%_20.96%_35.72%_77.1%]" data-node-id="146:34" data-name="Vector">
             <div className="absolute inset-[-3.32%]">
-              <img alt="" className="block max-w-none size-full" src={imgVector17} />
+              <img loading="lazy" decoding="async" alt="" className="block max-w-none size-full" src={imgVector17} />
             </div>
           </div>
           <div className="absolute inset-[32.14%_48.23%_35.72%_49.83%]" data-node-id="146:35" data-name="Vector">
             <div className="absolute inset-[-3.32%]">
-              <img alt="" className="block max-w-none size-full" src={imgVector18} />
+              <img loading="lazy" decoding="async" alt="" className="block max-w-none size-full" src={imgVector18} />
             </div>
           </div>
           <div className="absolute inset-[32.14%_43.5%_35.72%_55.01%]" data-node-id="146:36" data-name="Vector">
             <div className="absolute inset-[-3.32%_-4.32%]">
-              <img alt="" className="block max-w-none size-full" src={imgVector19} />
+              <img loading="lazy" decoding="async" alt="" className="block max-w-none size-full" src={imgVector19} />
             </div>
           </div>
           <div className="absolute content-stretch flex gap-[6.972px] inset-[35.71%_88.79%_39.29%_3.88%] items-center pr-[6.197px]" data-node-id="146:37" data-name="Window Controls/Standard">
@@ -1040,13 +1040,13 @@ function Canvas() {
             <div className="bg-[#35c759] border-[0.387px] border-[rgba(0,0,0,0.12)] border-solid relative rounded-[77.461px] shrink-0 size-[10.845px]" data-node-id="I146:37;177:9890" data-name="Zoom" />
           </div>
           <div className="absolute inset-[32.14%_35.18%_35.72%_60.89%]" data-node-id="146:38" data-name="Navigation Icon Container">
-            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgNavigationIconContainer3} />
+            <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" src={imgNavigationIconContainer3} />
           </div>
           <div className="absolute inset-[32.14%_30.14%_35.52%_68.11%]" data-node-id="146:41" data-name="Vector">
-            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector20} />
+            <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector20} />
           </div>
           <div className="absolute bottom-[35.72%] left-[73.06%] right-1/4 top-[32.14%]" data-node-id="146:42" data-name="Vector">
-            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector21} />
+            <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector21} />
           </div>
         </div>
         <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['SF_Pro_Display:Regular'] justify-center leading-[0] left-[51px] not-italic text-[51.69px] text-black top-[252px] tracking-[-1.5507px] whitespace-nowrap" data-node-id="147:87">
@@ -1142,71 +1142,71 @@ function Canvas() {
       <div className="absolute flex h-[254px] items-center justify-center left-[812px] top-[12194px] w-[412.588px]" data-node-id="149:92">
         <div className="flex-none rotate-[4.59deg]">
           <div className="h-[223px] relative rounded-[8px] shadow-[0px_4px_11.8px_0px_rgba(0,0,0,0.54)] w-[396px]" data-name="DSCF3026 1">
-            <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[8px] size-full" src={imgDscf30261} />
+            <img loading="lazy" decoding="async" alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[8px] size-full" src={imgDscf30261} />
           </div>
         </div>
       </div>
       <div className="absolute flex h-[198.331px] items-center justify-center left-[840.27px] top-[12401px] w-[343.99px]" data-node-id="149:93">
         <div className="flex-none rotate-[-1.17deg]">
           <div className="h-[191.416px] relative rounded-[8px] shadow-[0px_4px_11.8px_0px_rgba(0,0,0,0.54)] w-[340.148px]" data-name="DSCF3026 2">
-            <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[8px] size-full" src={imgDscf30262} />
+            <img loading="lazy" decoding="async" alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[8px] size-full" src={imgDscf30262} />
           </div>
         </div>
       </div>
       <div className="absolute flex h-[223.222px] items-center justify-center left-[818.83px] top-[12587px] w-[394.235px]" data-node-id="149:94">
         <div className="flex-none rotate-[-0.29deg]">
           <div className="h-[221.222px] relative rounded-[8px] shadow-[0px_4px_11.8px_0px_rgba(0,0,0,0.54)] w-[393.113px]" data-name="DSCF3026 3">
-            <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[8px] size-full" src={imgDscf30263} />
+            <img loading="lazy" decoding="async" alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[8px] size-full" src={imgDscf30263} />
           </div>
         </div>
       </div>
       <div className="absolute flex h-[207.845px] items-center justify-center left-[834px] top-[12782.86px] w-[350.134px]" data-node-id="149:95">
         <div className="flex-none rotate-[2.65deg]">
           <div className="h-[192.233px] relative rounded-[8px] shadow-[0px_4px_11.8px_0px_rgba(0,0,0,0.54)] w-[341.599px]" data-name="DSCF3026 4">
-            <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[8px] size-full" src={imgDscf30264} />
+            <img loading="lazy" decoding="async" alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[8px] size-full" src={imgDscf30264} />
           </div>
         </div>
       </div>
       <div className="absolute flex h-[225.096px] items-center justify-center left-[810px] top-[12968.86px] w-[397.192px]" data-node-id="149:96">
         <div className="flex-none rotate-[-0.33deg]">
           <div className="h-[222.789px] relative rounded-[8px] shadow-[0px_4px_11.8px_0px_rgba(0,0,0,0.54)] w-[395.898px]" data-name="DSCF3026 5">
-            <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[8px] size-full" src={imgDscf30265} />
+            <img loading="lazy" decoding="async" alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[8px] size-full" src={imgDscf30265} />
           </div>
         </div>
       </div>
       <div className="absolute flex h-[228.71px] items-center justify-center left-[819px] top-[13163px] w-[377.933px]" data-node-id="150:97">
         <div className="flex-none rotate-[3.68deg]">
           <div className="h-[205.675px] relative rounded-[8px] shadow-[0px_4px_11.8px_0px_rgba(0,0,0,0.54)] w-[365.485px]" data-name="DSCF3026 6">
-            <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[8px] size-full" src={imgDscf30266} />
+            <img loading="lazy" decoding="async" alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[8px] size-full" src={imgDscf30266} />
           </div>
         </div>
       </div>
       <div className="absolute flex h-[248.26px] items-center justify-center left-[793px] top-[13350.98px] w-[419.901px]" data-node-id="151:103">
         <div className="flex-none rotate-[-2.44deg]">
           <div className="h-[231px] relative rounded-[8px] shadow-[0px_4px_11.8px_0px_rgba(0,0,0,0.54)] w-[410.442px]" data-name="DSCF3026 9">
-            <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[8px] size-full" src={imgDscf30269} />
+            <img loading="lazy" decoding="async" alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[8px] size-full" src={imgDscf30269} />
           </div>
         </div>
       </div>
       <div className="absolute h-[205px] left-[827px] rounded-[8px] shadow-[0px_4px_11.8px_0px_rgba(0,0,0,0.54)] top-[13572px] w-[364.286px]" data-node-id="150:98" data-name="DSCF3026 7">
-        <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[8px] size-full" src={imgDscf30267} />
+        <img loading="lazy" decoding="async" alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[8px] size-full" src={imgDscf30267} />
       </div>
       <div className="absolute flex h-[249.853px] items-center justify-center left-[796.31px] top-[13738.42px] w-[421.981px]" data-node-id="151:102">
         <div className="flex-none rotate-[-2.52deg]">
           <div className="h-[231.951px] relative rounded-[8px] shadow-[0px_4px_11.8px_0px_rgba(0,0,0,0.54)] w-[412.179px]" data-name="DSCF3026 8">
-            <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[8px] size-full" src={imgDscf30268} />
+            <img loading="lazy" decoding="async" alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[8px] size-full" src={imgDscf30268} />
           </div>
         </div>
       </div>
       <div className="absolute flex h-[235.99px] items-center justify-center left-[816px] top-[13960px] w-[395.768px]" data-node-id="151:104">
         <div className="flex-none rotate-[2.89deg]">
           <div className="h-[216.84px] relative rounded-[8px] shadow-[0px_4px_11.8px_0px_rgba(0,0,0,0.54)] w-[385.327px]" data-name="DSCF3026 10">
-            <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[8px] size-full" src={imgDscf302610} />
+            <img loading="lazy" decoding="async" alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[8px] size-full" src={imgDscf302610} />
           </div>
         </div>
       </div>
       <div className="absolute left-[1159px] size-[53px] top-[490px]" data-node-id="151:205" data-name="image 25 [Vectorized]">
-        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgImage25Vectorized} />
+        <img loading="lazy" decoding="async" alt="" className="absolute block inset-0 max-w-none size-full" src={imgImage25Vectorized} />
       </div>
       <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['SF_Pro:Regular'] font-normal justify-center leading-[0] left-[978px] text-[#323234] text-[35.89px] top-[518.5px] tracking-[-1.0767px] whitespace-nowrap" data-node-id="151:204" style={{ fontVariationSettings: '"wdth" 100' }}>
         <p className="leading-[0.804]">@kellvinn.__</p>
@@ -1229,7 +1229,7 @@ function Canvas() {
         </div>
         <div className="absolute bg-[#ff0909] h-[276px] left-0 overflow-clip top-[129px] w-[399px]" data-node-id="172:33" data-name="Shared Photo">
           <div className="absolute h-[696px] left-[-17px] top-[-243px] w-[463.887px]" data-node-id="172:39" data-name="WhatsApp Image 2026-09-29 at 15.54.07 1">
-            <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgWhatsAppImage20260929At1554071} />
+            <img loading="lazy" decoding="async" alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgWhatsAppImage20260929At1554071} />
           </div>
         </div>
         <div className="[word-break:break-word] absolute contents leading-[normal] left-[62px] text-[26.777px] top-[429px] whitespace-nowrap" data-node-id="172:36" data-name="Response Container">
@@ -1242,7 +1242,7 @@ function Canvas() {
         </div>
         <div className="-translate-x-1/2 absolute h-[79px] left-[calc(50%-0.5px)] top-[405px] w-0" data-node-id="172:37">
           <div className="absolute inset-[0_-0.5px]">
-            <img alt="" className="block max-w-none size-full" src={imgVector22} />
+            <img loading="lazy" decoding="async" alt="" className="block max-w-none size-full" src={imgVector22} />
           </div>
         </div>
       </div>
@@ -1290,3 +1290,4 @@ export default function App() {
     </div>
   );
 }
+
