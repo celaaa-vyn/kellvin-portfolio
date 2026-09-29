@@ -233,6 +233,12 @@ function Canvas() {
             </div>
           </div>
         </div>
+        <div className="absolute flex flex-col items-center left-1/2 -translate-x-1/2 top-[620px]" data-name="Scroll Down Indicator">
+          <p className="font-['SF_Pro:Regular'] text-[#323234] text-[16px] mb-2 font-medium" style={{ fontVariationSettings: '"wdth" 100' }}>scroll down</p>
+          <svg width="24" height="40" viewBox="0 0 24 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M12 2V38M12 38L4 30M12 38L20 30" stroke="#323234" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"/>
+          </svg>
+        </div>
       </div>
       <div className="absolute contents left-[-10px] top-[1433px]" data-node-id="12:4294" data-name="Mask group">
         <div className="absolute h-[1846px] left-[-10px] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-size-[1290px_1846px] top-[1433px] w-[1290px]" data-node-id="12:4290" style={{ maskImage: `url("${imgBackgroundImage}")` }} data-name="Background Image">
