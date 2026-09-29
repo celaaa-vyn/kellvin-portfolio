@@ -1,5 +1,11 @@
 @import 'tailwindcss';
 
+/* Prevent iOS Safari from auto-enlarging text which breaks absolute-positioned layout */
+*, *::before, *::after {
+  -webkit-text-size-adjust: 100% !important;
+  text-size-adjust: 100% !important;
+}
+
 /* --- SF Pro (resolved via Figma font service) --- */
 @font-face {
   font-family: 'SF Pro:Light';
