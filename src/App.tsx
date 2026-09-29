@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 const CANVAS_WIDTH = 1280;
 const CANVAS_HEIGHT = 15632;
 
-const assetPathPrefix = "/assets";
+const assetPathPrefix = import.meta.env.BASE_URL + "assets";
 const imgPhotoBackground = `${assetPathPrefix}/19afb.webp`;
 const imgMajorDescriptionBackground = `${assetPathPrefix}/df9e7.webp`;
 const imgBackgroundImage1 = `${assetPathPrefix}/bg-mountains.webp`;
